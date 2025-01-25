@@ -28,7 +28,7 @@
     <img align="left" alt="Gustavo-android" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img align="left" alt="Gustavo-docker" height="50" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 </div>
 
 
