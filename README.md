@@ -13,21 +13,21 @@
   
 ## Skills
 <div style="display: inline_block"><br>
-    <img  align="left" alt="Gustavo-Kotlin" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
+    <img  align="left" alt="Gustavo-Kotlin" height="40" width="40" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="left" alt="Gustavo-Python" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="left" alt="Gustavo-Python" height="40" width="40" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="left" alt="Gustavo-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
+    <img align="left" alt="Gustavo-C" height="40" width="40" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="left" alt="Gustavo-cpp" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
+    <img align="left" alt="Gustavo-cpp" height="40" width="40" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="left" alt="Gustavo-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+    <img align="left" alt="Gustavo-Js" height="40" width="40" style="vertical-align: middle;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="left" alt="Gustavo-postgres" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
+    <img align="left" alt="Gustavo-postgres" height="40" width="40" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="left" alt="Gustavo-android" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
+    <img align="left" alt="Gustavo-android" height="40" width="40" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img align="left" alt="Gustavo-docker" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
+    <img align="left" alt="Gustavo-docker" height="40" width="40" style="vertical-align: middle;" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
